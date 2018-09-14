@@ -4,5 +4,9 @@ commit1
 b7commit1
 =======
 commit2
+<<<<<<< HEAD
 >>>>>>> master
 b7commit3
+=======
+commit3
+>>>>>>> 2966aba
