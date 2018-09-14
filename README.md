@@ -5,3 +5,4 @@ b7commit1
 =======
 commit2
 >>>>>>> master
+b7commit3
